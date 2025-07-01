@@ -1,0 +1,12 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.3.2
+  ParameterEvaluation.cpp
+E:\Programming\ParameterEvaluation\ParameterEvaluation\src\ParameterEvaluation.cpp(60,17): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+E:\Programming\ParameterEvaluation\ParameterEvaluation\src\ParameterEvaluation.cpp(61,17): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  qrc_ParameterEvaluation.cpp
+  moc_FormSettings.cpp
+  moc_MatchingFeatureEvaluation.cpp
+  moc_ParameterEvaluation.cpp
+  moc_StemCurveEvaluation.cpp
+    正在创建库 E:\Programming\ParameterEvaluation\x64\Debug\ParameterEvaluation.lib 和对象 E:\Programming\ParameterEvaluation\x64\Debug\ParameterEvaluation.exp
+  ParameterEvaluation.vcxproj -> E:\Programming\ParameterEvaluation\x64\Debug\ParameterEvaluation.exe
